@@ -1,0 +1,66 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "companyName": "Anka",
+      "stock": "typicode",
+      "marketCap": 233232
+    },
+    {
+      "id": 2,
+      "companyName": "IDStates",
+      "stock": "typicode",
+      "marketCap": 233232
+    },
+    {
+      "id": 3,
+      "companyName": "Allied",
+      "stock": "typicode",
+      "marketCap": 233232
+    },
+    {
+      "id": 4,
+      "companyName": "Google",
+      "stock": "typicode",
+      "marketCap": 233232
+    },
+    {
+      "id": 5,
+      "companyName": "Amazon",
+      "stock": "typicode",
+      "marketCap": 233232
+    },
+    {
+      "id": 6,
+      "companyName": "Demo",
+      "stock": "typicode",
+      "marketCap": 233232
+    },
+    {
+      "id": 7,
+      "companyName": "testr",
+      "stock": "typicode",
+      "marketCap": 233232
+    },
+    {
+      "id": 8,
+      "companyName": "new Com",
+      "stock": "typicode",
+      "marketCap": 233232
+    },
+    {
+      "id": 9,
+      "companyName": "xyz",
+      "stock": "typicode",
+      "marketCap": 233232
+    }
+  ],
+  "saveData": [
+    {
+      "id": 2,
+      "companyName": "IDStates",
+      "stock": "typicode",
+      "marketCap": 233232
+    }
+  ]
+}
